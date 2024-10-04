@@ -1,4 +1,6 @@
 {
+    "window.zoomLevel": -1.5,
+
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 12.5,
     "editor.lineHeight": 1.5,
@@ -12,7 +14,6 @@
     "workbench.editor.labelFormat": "short",
     "workbench.colorTheme": "Dracula Theme",
     "workbench.iconTheme": "vscode-icons",
-    "workbench.layoutControl.enabled": false,
 
     "files.autoSave": "afterDelay",
 
@@ -20,10 +21,11 @@
 
     "breadcrumbs.enabled": false,
 
-    "terminal.integrated.fontSize": 14.5,
+    "terminal.integrated.fontSize": 13.5,
     "terminal.integrated.fontFamily": "JetBrains Mono",
 
-    //"material - icon - theme.folders.associations": {}
+    "material - icon - theme.folders.associations": {
+    },
 
     //"apc.font.family": "",
 
@@ -35,66 +37,7 @@
 
     "apc.listRow": {
         "height": 23
-    },
-
-    "window.zoomLevel": -1.5,
-    
-    "better-comments.tags": [
-        {
-          "tag": "!",
-          "color": "#ff0000",
-          "strikethrough": false,
-          "underline": false,
-          "backgroundColor": "transparent",
-          "bold": false,
-          "italic": false
-        },
-        {
-            "tag": "#",
-            "color": "#fc036f",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": false,
-            "italic": false
-          },
-        {
-          "tag": "?",
-          "color": "#3498DB",
-          "strikethrough": false,
-          "underline": false,
-          "backgroundColor": "transparent",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "tag": "//",
-          "color": "#707070",
-          "strikethrough": false,
-          "underline": false,
-          "backgroundColor": "transparent",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "tag": "todo",
-          "color": "#FF8C00",
-          "strikethrough": false,
-          "underline": false,
-          "backgroundColor": "transparent",
-          "bold": false,
-          "italic": false
-        },
-        {
-          "tag": "*",
-          "color": "#00ff00",
-          "strikethrough": false,
-          "underline": false,
-          "backgroundColor": "transparent",
-          "bold": false,
-          "italic": false
-        }
-    ]
+    }
 
 /*
 // Mac:
