@@ -1,43 +1,46 @@
 {
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 12.5,
-    "editor.lineHeight": 1.5,
-    "editor.rulers": [80, 120],
-    "editor.renderLineHighlight": "gutter",
-    "editor.fontLigatures": true,
-    "editor.minimap.enabled": false,
-    "editor.scrollbar.vertical": "hidden",
+  "window.zoomLevel": -1.5,
 
-    "workbench.tree.indent": 12,
-    "workbench.editor.labelFormat": "short",
-    "workbench.colorTheme": "Dracula Theme",
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.layoutControl.enabled": false,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 13,
+  "editor.lineHeight": 1.6,
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.tabSize": 4,
 
-    "files.autoSave": "afterDelay",
+  "workbench.tree.indent": 12,
+  "workbench.editor.labelFormat": "short",
+  "workbench.colorTheme": "Dracula Theme",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  //"workbench.startupEditor": "newUntitledFile",
 
-    "explorer.compactFolders": false,
+  "files.autoSave": "afterDelay",
 
-    "breadcrumbs.enabled": false,
+  "explorer.compactFolders": false,
 
-    "terminal.integrated.fontSize": 14.5,
-    "terminal.integrated.fontFamily": "JetBrains Mono",
+  "breadcrumbs.enabled": false,
 
-    //"material - icon - theme.folders.associations": {}
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
 
-    //"apc.font.family": "",
+  //"material - icon - theme.folders.associations": {}
 
-    "apc.stylesheet": {
-        ".title-label > h2": "display: none",
-        //".editor-actions": "display none",
-        ".pane-body": "padding: 8px"
-    },
+  //"apc.font.family": "",
 
-    "apc.listRow": {
-        "height": 23
-    },
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    //".editor-actions": "display none",
+    ".pane-body": "padding: 8px"
+  },
 
-    "window.zoomLevel": -1.5,
+  "apc.listRow": {
+    "height": 23
+  },
 
     "better-comments.tags": [
         {
@@ -51,7 +54,7 @@
         },
         {
             "tag": "#",
-            "color": "#fc036f",
+            "color": "#ff00ff",
             "strikethrough": false,
             "underline": false,
             "backgroundColor": "transparent",
@@ -60,7 +63,7 @@
           },
         {
           "tag": "?",
-          "color": "#3498DB",
+          "color": "#0000ff",
           "strikethrough": false,
           "underline": false,
           "backgroundColor": "transparent",
@@ -77,8 +80,26 @@
           "italic": false
         },
         {
+          "tag": ":",
+          "color": "#ffff00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
           "tag": "todo",
           "color": "#FF8C00",
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "/",
+          "color": "#00ff88",
           "strikethrough": false,
           "underline": false,
           "backgroundColor": "transparent",
@@ -94,7 +115,7 @@
           "bold": false,
           "italic": false
         }
-    ]
+    ],
 
 /*
 // Mac:
