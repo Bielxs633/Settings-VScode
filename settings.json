@@ -2,14 +2,14 @@
   "window.zoomLevel": -1.5,
 
   "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 13,
-  "editor.lineHeight": 1.6,
+  "editor.fontSize": 12.5,
+  "editor.lineHeight": 1.5,
   "editor.rulers": [80, 120],
   "editor.renderLineHighlight": "gutter",
   "editor.fontLigatures": true,
   "editor.minimap.enabled": false,
   "editor.scrollbar.vertical": "hidden",
-  "editor.tabSize": 4,
+  //"editor.tabSize": 4,
 
   "workbench.tree.indent": 12,
   "workbench.editor.labelFormat": "short",
@@ -25,10 +25,12 @@
 
   "breadcrumbs.enabled": false,
 
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 14.5,
   "terminal.integrated.fontFamily": "JetBrains Mono",
 
-  //"material - icon - theme.folders.associations": {}
+  //"material - icon - theme.folders.associations": {
+    
+  }
 
   //"apc.font.family": "",
 
