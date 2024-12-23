@@ -2,6 +2,8 @@
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
 
+---
+
 ## Sobre
 Este repositório contém minhas configurações personalizadas para o **Visual Studio Code**. Aqui você encontrará o arquivo de configurações (`settings.json`), lista de extensões utilizadas, temas e outras configurações para otimizar o ambiente de desenvolvimento.
 
